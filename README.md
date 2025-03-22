@@ -34,8 +34,11 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
-         <a href=mailto:nukunga123@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nukunga123@gmail.com"> </a>
+    <div align= "center"> 
+        <a href="https://efficient-robin-4f6.notion.site/5ad227f9ee8a486caeadd14e0fe38258?v=6c6c9edfabb14cc7825698c90c3f9972"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
+        <a href=mailto:nukunga123@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nukunga123@gmail.com"> </a>
+        <a href="https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EC%A0%84-607a65315/"> <img src=""> </a>
+        [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EC%A0%84-607a65315/)](https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EC%A0%84-607a65315/)
           </div>  <br> 
     <div align= "center">
     </div> 
